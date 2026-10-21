@@ -1,7 +1,7 @@
 app=OmniXCare
-version=0.6.0
+version=0.7.0
 date=2026-10-21
-sha256=4ec15aaf71a7dd11488710d6d133b87ac6bbbdb00297ce9674ec6776bb0712e4
-size=4006912
+sha256=c498bb99670f84e77debbf01546d797a504ee7ec131bad9cf13e72da9773c762
+size=4154368
 url=https://raw.githubusercontent.com/Flashzz/omnix-care/main/downloads/OmniXCare-Setup.exe
-notes=Relatório de sessão: grave uma partida e veja FPS médio, 1% e 0,1% low, travadas, gargalo, temperatura e programas em segundo plano, com histórico para comparar antes e depois|Gargalo e upgrades: veja se o processador segura a placa de vídeo e quanto de FPS cada troca de peça renderia|Modo jogo mais forte: mais programas de segundo plano, uso de processador de cada um e prioridade baixa para o que continuar aberto (volta ao desativar)
+notes=Windows Update e antivírus dentro do app: procurar, instalar, pausar e desinstalar atualizações; verificações, ameaças e quarentena do Defender|Câmera, microfone e localização: veja quem usa (e quem está usando agora) e bloqueie ou permita, com desfazer|Mais consertos sem abrir o Windows: partições (criar, mudar tamanho, formatar, apagar), diagnóstico de rede, dispositivos com problema, placa de vídeo por jogo e Sensor de Armazenamento

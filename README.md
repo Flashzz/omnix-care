@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Flashzz/omnix-care/raw/main/downloads/OmniXCare-Setup.exe"><b>⬇ Baixar o OmniX Care para Windows</b></a><br>
-  <sub>Windows 10 e 11 · grátis · versão 0.6</sub>
+  <sub>Windows 10 e 11 · grátis · versão 0.7</sub>
 </p>
 
 ---
@@ -19,17 +19,19 @@ O **OmniX Care** reúne num app só tudo o que você precisa para manter o compu
 - **Painel com nota de saúde** do PC (0 a 100), atalhos para resolver cada problema e **gráfico processador × placa de vídeo** (temperatura, uso e consumo)
 - **Sensores em tempo real:** temperatura, clock, uso, tensão, ventoinhas e consumo de cada peça, com temperatura ao vivo no menu e **alerta de superaquecimento**
 - **Limpeza** de arquivos temporários, caches e restos do Windows Update
-- **Discos:** saúde estilo CrystalDiskInfo (S.M.A.R.T., temperatura, vida útil) e gerenciador de partições com desfazer
+- **Discos:** saúde estilo CrystalDiskInfo (S.M.A.R.T., temperatura, vida útil) e **gerenciador de partições** completo: criar, mudar tamanho, formatar, apagar, renomear e trocar letra, com desfazer onde dá e travas que protegem a unidade do Windows
 - **Analisador de espaço** e localizador de **arquivos duplicados**
-- **Jogos:** modo jogo de um clique (fecha e baixa a prioridade do que pesa, e desfaz tudo depois), **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo, ajustes do Windows, **overlay de FPS** (FPS, frametime, 1% low e sensores sobre o jogo, com Ctrl+Shift+O), **relatório de cada partida** (FPS médio, 1% e 0,1% low, travadas, gargalo, temperatura e programas em segundo plano, com histórico para comparar o antes e o depois), **FPS estimado** de 32 jogos populares e **calculadora de gargalo e upgrades** (quanto de FPS cada troca de placa ou processador renderia)
-- **Internet:** teste de velocidade, ping, **diagnóstico de lag** (Wi-Fi × provedor × bufferbloat), rota até o servidor e DNS mais rápido
+- **Jogos:** modo jogo de um clique (fecha e baixa a prioridade do que pesa, e desfaz tudo depois), **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo, ajustes do Windows, **placa de vídeo por jogo** (integrada ou dedicada), **overlay de FPS** (FPS, frametime, 1% low e sensores sobre o jogo, com Ctrl+Shift+O), **relatório de cada partida** (FPS médio, 1% e 0,1% low, travadas, gargalo, temperatura e programas em segundo plano, com histórico para comparar o antes e o depois), **FPS estimado** de 32 jogos populares e **calculadora de gargalo e upgrades** (quanto de FPS cada troca de placa ou processador renderia)
+- **Internet:** teste de velocidade, ping, **diagnóstico de lag** (Wi-Fi × provedor × bufferbloat), rota até o servidor, DNS mais rápido e **diagnóstico com conserto** (placa de rede, IP, roteador, DNS, proxy e Wi-Fi que pede login)
 - **Programas:** atualizar tudo, instalar apps populares (com **kits** prontos: pós-formatação, gamer, trabalho), desinstalar com limpeza de sobras e remover apps de fábrica
-- **Drivers**, **Hardware** (placa de vídeo estilo GPU-Z, saúde do SSD/HD, bateria, memória RAM, erros e telas azuis) e **relatório completo do PC**
+- **Drivers** (reiniciar, ativar, reinstalar e instalar driver de uma pasta, sem abrir o Gerenciador de Dispositivos), **Hardware** (placa de vídeo estilo GPU-Z, saúde do SSD/HD, bateria, memória RAM, erros e telas azuis) e **relatório completo do PC**
 - **Testes de hardware:** **stress de processador e memória** e **stress da placa de vídeo** (estilo FurMark) que param sozinhos no limite de temperatura ou em erro, **benchmarks com histórico** (processador estilo Cinebench, placa de vídeo, jogo, memória e disco), **overclock da placa NVIDIA** com restaurar padrão e verificação de estabilidade, e HWiNFO, OCCT, Cinebench, FurMark, CrystalDiskMark, MSI Afterburner, PresentMon, OpenRGB e outros com 1 clique
 - **Utilitários:** limpeza de registro com backup, menu do botão direito, triturador de arquivos, desligar programado, otimizador de memória e **iluminação RGB** (cor fixa, respirar, arco-íris ou cor pela temperatura, pelo OpenRGB e Razer Chroma, com devolver ao original)
 - **Maker:** Arduino/ESP32 — portas COM fantasmas, números COM presos e drivers CH340, CP210x, FTDI e Prolific
 - **Aviso de USB:** notificação ao conectar pendrive, HD externo ou placa
-- **Privacidade**, **Segurança**, **Inicialização**, **Processos** e **Ferramentas** de reparo do Windows
+- **Segurança:** **Windows Update dentro do app** (procurar, instalar, histórico, desinstalar, ocultar e pausar) e **painel do antivírus** (verificações, ameaças e quarentena)
+- **Privacidade:** desliga rastreamento e anúncios e mostra **quem usa a câmera, o microfone e a localização** (e quem está usando agora), com permitir e bloquear
+- **Inicialização**, **Processos** e **Ferramentas** de reparo do Windows, incluindo o **Sensor de Armazenamento** (limpeza automática)
 - **Assistente de IA** para tirar dúvidas sobre o PC
 - Tema **claro e escuro**
 
