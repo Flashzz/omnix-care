@@ -1,7 +1,7 @@
 app=OmniXCare
-version=3.1.0
+version=3.2.0
 date=2026-10-20
-sha256=b44a25d3f109c338021a1cbe41a1f5e6266f762eceb5ffe6a77e212168269feb
-size=1299968
+sha256=310d5812b7a6a3f3e369eaa2e60a2a4f5756cad068607c13fd227cceee2c71e7
+size=1455104
 url=https://raw.githubusercontent.com/Flashzz/omnix-care/main/downloads/OmniXCare-Setup.exe
-notes=Agora o OmniX Care é instalável e se atualiza sozinho|Relatório completo do PC em HTML com a marca OmniX|Instalar apps populares com 1 clique|Histórico de erros de hardware e telas azuis|Detalhes dos pentes de memória RAM|Melhorias de segurança
+notes=Biblioteca de jogos (Steam, Epic, GOG, Ubisoft) com perfil por jogo e botão Jogar|Nova tela Maker: portas COM fantasmas, números COM presos e drivers CH340/CP210x/FTDI/Prolific/Arduino|Utilitários: limpeza de registro com backup, menu do botão direito, triturador, desligar programado e otimizador de memória|Testes e sensores: HWiNFO, OCCT, Cinebench, FurMark, CrystalDiskMark e mais com 1 clique|Aviso ao conectar pendrive/USB e cartões das unidades|Diagnóstico de lag: rede local x provedor e bufferbloat

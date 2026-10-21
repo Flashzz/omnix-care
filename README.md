@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Flashzz/omnix-care/raw/main/downloads/OmniXCare-Setup.exe"><b>⬇ Baixar o OmniX Care para Windows</b></a><br>
-  <sub>Windows 10 e 11 · grátis · versão 3.1.0</sub>
+  <sub>Windows 10 e 11 · grátis · versão 3.2.0</sub>
 </p>
 
 ---
@@ -19,10 +19,14 @@ O **OmniX Care** reúne num app só tudo o que você precisa para manter o compu
 - **Painel com nota de saúde** do PC (0 a 100) e atalhos para resolver cada problema
 - **Limpeza** de arquivos temporários, caches e restos do Windows Update
 - **Analisador de espaço** e localizador de **arquivos duplicados**
-- **Jogos:** modo jogo de um clique e ajustes do Windows que ajudam no desempenho
-- **Internet:** teste de velocidade, ping, estabilidade, rota até o servidor e DNS mais rápido
+- **Jogos:** modo jogo de um clique, **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo e ajustes do Windows
+- **Internet:** teste de velocidade, ping, **diagnóstico de lag** (Wi-Fi × provedor × bufferbloat), rota até o servidor e DNS mais rápido
 - **Programas:** atualizar tudo, instalar apps populares, desinstalar com limpeza de sobras e remover apps de fábrica
 - **Drivers**, **Hardware** (saúde do SSD/HD, bateria, memória RAM, erros e telas azuis) e **relatório completo do PC**
+- **Testes e sensores:** HWiNFO, OCCT, Cinebench, FurMark, CrystalDiskMark, MSI Afterburner, PresentMon, OpenRGB e outros com 1 clique
+- **Utilitários:** limpeza de registro com backup, menu do botão direito, triturador de arquivos, desligar programado e otimizador de memória
+- **Maker:** Arduino/ESP32 — portas COM fantasmas, números COM presos e drivers CH340, CP210x, FTDI e Prolific
+- **Aviso de USB:** notificação ao conectar pendrive, HD externo ou placa
 - **Privacidade**, **Segurança**, **Inicialização**, **Processos** e **Ferramentas** de reparo do Windows
 - **Assistente de IA** para tirar dúvidas sobre o PC
 - Tema **claro e escuro**
