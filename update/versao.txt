@@ -1,0 +1,7 @@
+app=OmniXCare
+version=0.5.0
+date=2026-10-21
+sha256=fa1d0db0a95279eedf977a80f8f42929b9045b7e92c766f2e2a606512524d83c
+size=3931648
+url=https://raw.githubusercontent.com/Flashzz/omnix-care/main/downloads/OmniXCare-Setup.exe
+notes=Nova numeração: 0.x é a fase de testes, a versão oficial será a 1.0|FPS estimado de 32 jogos no seu PC ou com outra peça|Stress da placa de vídeo com parada no limite de temperatura|Benchmarks de processador, placa de vídeo, jogo, memória e disco, com histórico|Iluminação RGB pelo OpenRGB e Razer Chroma|Instalador oferece OpenRGB e winget, além do PawnIO
