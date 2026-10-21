@@ -1,0 +1,7 @@
+app=OmniXCare
+version=3.1.0
+date=2026-10-20
+sha256=b44a25d3f109c338021a1cbe41a1f5e6266f762eceb5ffe6a77e212168269feb
+size=1299968
+url=https://raw.githubusercontent.com/Flashzz/omnix-care/main/downloads/OmniXCare-Setup.exe
+notes=Agora o OmniX Care é instalável e se atualiza sozinho|Relatório completo do PC em HTML com a marca OmniX|Instalar apps populares com 1 clique|Histórico de erros de hardware e telas azuis|Detalhes dos pentes de memória RAM|Melhorias de segurança
