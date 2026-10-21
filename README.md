@@ -9,21 +9,22 @@
 
 <p align="center">
   <a href="https://github.com/Flashzz/omnix-care/raw/main/downloads/OmniXCare-Setup.exe"><b>⬇ Baixar o OmniX Care para Windows</b></a><br>
-  <sub>Windows 10 e 11 · grátis · versão 3.2.0</sub>
+  <sub>Windows 10 e 11 · grátis · versão 3.3.0</sub>
 </p>
 
 ---
 
 O **OmniX Care** reúne num app só tudo o que você precisa para manter o computador rápido, limpo e estável:
 
-- **Painel com nota de saúde** do PC (0 a 100) e atalhos para resolver cada problema
+- **Painel com nota de saúde** do PC (0 a 100), atalhos para resolver cada problema e **gráfico processador × placa de vídeo** (temperatura, uso e consumo)
+- **Sensores em tempo real:** temperatura, clock, uso, tensão, ventoinhas e consumo de cada peça, com temperatura ao vivo no menu e **alerta de superaquecimento**
 - **Limpeza** de arquivos temporários, caches e restos do Windows Update
 - **Analisador de espaço** e localizador de **arquivos duplicados**
 - **Jogos:** modo jogo de um clique, **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo e ajustes do Windows
 - **Internet:** teste de velocidade, ping, **diagnóstico de lag** (Wi-Fi × provedor × bufferbloat), rota até o servidor e DNS mais rápido
 - **Programas:** atualizar tudo, instalar apps populares, desinstalar com limpeza de sobras e remover apps de fábrica
-- **Drivers**, **Hardware** (saúde do SSD/HD, bateria, memória RAM, erros e telas azuis) e **relatório completo do PC**
-- **Testes e sensores:** HWiNFO, OCCT, Cinebench, FurMark, CrystalDiskMark, MSI Afterburner, PresentMon, OpenRGB e outros com 1 clique
+- **Drivers**, **Hardware** (placa de vídeo estilo GPU-Z, saúde do SSD/HD, bateria, memória RAM, erros e telas azuis) e **relatório completo do PC**
+- **Testes de hardware:** HWiNFO, OCCT, Cinebench, FurMark, CrystalDiskMark, MSI Afterburner, PresentMon, OpenRGB e outros com 1 clique
 - **Utilitários:** limpeza de registro com backup, menu do botão direito, triturador de arquivos, desligar programado e otimizador de memória
 - **Maker:** Arduino/ESP32 — portas COM fantasmas, números COM presos e drivers CH340, CP210x, FTDI e Prolific
 - **Aviso de USB:** notificação ao conectar pendrive, HD externo ou placa
@@ -43,4 +44,4 @@ O **OmniX Care** reúne num app só tudo o que você precisa para manter o compu
 O app procura versões novas sozinho e se atualiza quando você reinicia. Toda atualização é **assinada digitalmente pela OmniX** e conferida antes de instalar — arquivos alterados ou de outra origem são recusados.
 
 ---
-<sub>© 2026 OmniX. Fontes Sora e IBM Plex Sans sob a SIL Open Font License.</sub>
+<sub>© 2026 OmniX. Fontes Sora e IBM Plex Sans sob a SIL Open Font License. Sensores com LibreHardwareMonitor (MPL-2.0); avisos completos no app, em Configurações › Sobre.</sub>
