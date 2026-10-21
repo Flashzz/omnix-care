@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Flashzz/omnix-care/raw/main/downloads/OmniXCare-Setup.exe"><b>⬇ Baixar o OmniX Care para Windows</b></a><br>
-  <sub>Windows 10 e 11 · grátis · versão 3.3.0</sub>
+  <sub>Windows 10 e 11 · grátis · versão 3.4.0</sub>
 </p>
 
 ---
@@ -19,12 +19,13 @@ O **OmniX Care** reúne num app só tudo o que você precisa para manter o compu
 - **Painel com nota de saúde** do PC (0 a 100), atalhos para resolver cada problema e **gráfico processador × placa de vídeo** (temperatura, uso e consumo)
 - **Sensores em tempo real:** temperatura, clock, uso, tensão, ventoinhas e consumo de cada peça, com temperatura ao vivo no menu e **alerta de superaquecimento**
 - **Limpeza** de arquivos temporários, caches e restos do Windows Update
+- **Discos:** saúde estilo CrystalDiskInfo (S.M.A.R.T., temperatura, vida útil) e gerenciador de partições com desfazer
 - **Analisador de espaço** e localizador de **arquivos duplicados**
-- **Jogos:** modo jogo de um clique, **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo e ajustes do Windows
+- **Jogos:** modo jogo de um clique, **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo, ajustes do Windows, **overlay de FPS** (FPS, frametime, 1% low e sensores sobre o jogo, com Ctrl+Shift+O) e **detector de gargalo** (processador × placa de vídeo)
 - **Internet:** teste de velocidade, ping, **diagnóstico de lag** (Wi-Fi × provedor × bufferbloat), rota até o servidor e DNS mais rápido
-- **Programas:** atualizar tudo, instalar apps populares, desinstalar com limpeza de sobras e remover apps de fábrica
+- **Programas:** atualizar tudo, instalar apps populares (com **kits** prontos: pós-formatação, gamer, trabalho), desinstalar com limpeza de sobras e remover apps de fábrica
 - **Drivers**, **Hardware** (placa de vídeo estilo GPU-Z, saúde do SSD/HD, bateria, memória RAM, erros e telas azuis) e **relatório completo do PC**
-- **Testes de hardware:** HWiNFO, OCCT, Cinebench, FurMark, CrystalDiskMark, MSI Afterburner, PresentMon, OpenRGB e outros com 1 clique
+- **Testes de hardware:** **stress de processador e memória** que para sozinho no limite de temperatura ou em erro, **overclock da placa NVIDIA** com restaurar padrão e verificação de estabilidade, e HWiNFO, OCCT, Cinebench, FurMark, CrystalDiskMark, MSI Afterburner, PresentMon, OpenRGB e outros com 1 clique
 - **Utilitários:** limpeza de registro com backup, menu do botão direito, triturador de arquivos, desligar programado e otimizador de memória
 - **Maker:** Arduino/ESP32 — portas COM fantasmas, números COM presos e drivers CH340, CP210x, FTDI e Prolific
 - **Aviso de USB:** notificação ao conectar pendrive, HD externo ou placa

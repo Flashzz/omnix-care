@@ -1,7 +1,7 @@
 app=OmniXCare
-version=3.3.0
+version=3.4.0
 date=2026-10-21
-sha256=2c2a9651659e2161421dc1e921d8e7f3928a14104cd226dacc1dd55b0a019dd1
-size=3618304
+sha256=34a1d2801f66d50d2c087b5bfce028169129593abe946d2a95dbf58127ef4fb3
+size=3771392
 url=https://raw.githubusercontent.com/Flashzz/omnix-care/main/downloads/OmniXCare-Setup.exe
-notes=Sensores em tempo real: temperatura, clock, uso, tensão, ventoinhas e consumo de cada peça, com mínimo e máximo|Temperatura da CPU e da GPU ao vivo no menu e perto do relógio, com alerta de superaquecimento (ajustável em Configurações)|Placa de vídeo estilo GPU-Z: ficha completa e leitura ao vivo (NVIDIA, AMD e Intel)|Painel: gráfico processador x placa de vídeo (temperatura, uso e consumo)|Licenças de terceiros em Configurações > Sobre
+notes=Stress de processador e memória com limite de temperatura|Overclock da placa NVIDIA com restaurar padrão e verificação de estabilidade|Overlay de FPS no jogo (Ctrl+Shift+O)|Detector de gargalo processador x placa de vídeo|Página Discos: saúde S.M.A.R.T. e partições|Kits de instalação de programas e visual renovado
