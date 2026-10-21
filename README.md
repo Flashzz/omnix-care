@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/Flashzz/omnix-care/raw/main/downloads/OmniXCare-Setup.exe"><b>⬇ Baixar o OmniX Care para Windows</b></a><br>
-  <sub>Windows 10 e 11 · grátis · versão 0.5</sub>
+  <sub>Windows 10 e 11 · grátis · versão 0.6</sub>
 </p>
 
 ---
@@ -21,7 +21,7 @@ O **OmniX Care** reúne num app só tudo o que você precisa para manter o compu
 - **Limpeza** de arquivos temporários, caches e restos do Windows Update
 - **Discos:** saúde estilo CrystalDiskInfo (S.M.A.R.T., temperatura, vida útil) e gerenciador de partições com desfazer
 - **Analisador de espaço** e localizador de **arquivos duplicados**
-- **Jogos:** modo jogo de um clique, **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo, ajustes do Windows, **overlay de FPS** (FPS, frametime, 1% low e sensores sobre o jogo, com Ctrl+Shift+O) **detector de gargalo** (processador × placa de vídeo) e **FPS estimado** de 32 jogos populares no seu PC (ou com outra peça, para ver se o upgrade compensa)
+- **Jogos:** modo jogo de um clique (fecha e baixa a prioridade do que pesa, e desfaz tudo depois), **biblioteca de jogos** (Steam, Epic, GOG, Ubisoft) com perfil por jogo, ajustes do Windows, **overlay de FPS** (FPS, frametime, 1% low e sensores sobre o jogo, com Ctrl+Shift+O), **relatório de cada partida** (FPS médio, 1% e 0,1% low, travadas, gargalo, temperatura e programas em segundo plano, com histórico para comparar o antes e o depois), **FPS estimado** de 32 jogos populares e **calculadora de gargalo e upgrades** (quanto de FPS cada troca de placa ou processador renderia)
 - **Internet:** teste de velocidade, ping, **diagnóstico de lag** (Wi-Fi × provedor × bufferbloat), rota até o servidor e DNS mais rápido
 - **Programas:** atualizar tudo, instalar apps populares (com **kits** prontos: pós-formatação, gamer, trabalho), desinstalar com limpeza de sobras e remover apps de fábrica
 - **Drivers**, **Hardware** (placa de vídeo estilo GPU-Z, saúde do SSD/HD, bateria, memória RAM, erros e telas azuis) e **relatório completo do PC**

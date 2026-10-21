@@ -1,7 +1,7 @@
 app=OmniXCare
-version=0.5.0
+version=0.6.0
 date=2026-10-21
-sha256=fa1d0db0a95279eedf977a80f8f42929b9045b7e92c766f2e2a606512524d83c
-size=3931648
+sha256=4ec15aaf71a7dd11488710d6d133b87ac6bbbdb00297ce9674ec6776bb0712e4
+size=4006912
 url=https://raw.githubusercontent.com/Flashzz/omnix-care/main/downloads/OmniXCare-Setup.exe
-notes=Nova numeração: 0.x é a fase de testes, a versão oficial será a 1.0|FPS estimado de 32 jogos no seu PC ou com outra peça|Stress da placa de vídeo com parada no limite de temperatura|Benchmarks de processador, placa de vídeo, jogo, memória e disco, com histórico|Iluminação RGB pelo OpenRGB e Razer Chroma|Instalador oferece OpenRGB e winget, além do PawnIO
+notes=Relatório de sessão: grave uma partida e veja FPS médio, 1% e 0,1% low, travadas, gargalo, temperatura e programas em segundo plano, com histórico para comparar antes e depois|Gargalo e upgrades: veja se o processador segura a placa de vídeo e quanto de FPS cada troca de peça renderia|Modo jogo mais forte: mais programas de segundo plano, uso de processador de cada um e prioridade baixa para o que continuar aberto (volta ao desativar)
