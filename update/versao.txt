@@ -1,7 +1,7 @@
 app=OmniXCare
-version=0.7.0
+version=0.7.1
 date=2026-10-21
-sha256=c498bb99670f84e77debbf01546d797a504ee7ec131bad9cf13e72da9773c762
-size=4154368
+sha256=a2904717a22cad2641f17c12f321e7bfffb5038c3d0f15370a31608bf6162a47
+size=4156416
 url=https://raw.githubusercontent.com/Flashzz/omnix-care/main/downloads/OmniXCare-Setup.exe
-notes=Windows Update e antivírus dentro do app: procurar, instalar, pausar e desinstalar atualizações; verificações, ameaças e quarentena do Defender|Câmera, microfone e localização: veja quem usa (e quem está usando agora) e bloqueie ou permita, com desfazer|Mais consertos sem abrir o Windows: partições (criar, mudar tamanho, formatar, apagar), diagnóstico de rede, dispositivos com problema, placa de vídeo por jogo e Sensor de Armazenamento
+notes=Mais confiável para o antivírus: o app agora roda os comandos do Windows de forma transparente, sem o formato que antivírus confundem com vírus|Segurança: o firewall era mostrado como desligado em alguns Windows em português; corrigido|Hardware: a lista de unidades e pendrives carrega assim que a página abre
